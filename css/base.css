@@ -1,0 +1,61 @@
+* {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 18px;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+nav {
+	background-color: cornflowerblue;
+	width: 100%;
+	height: 65px;
+}
+
+h1 {
+	font-size: 45px;
+	font-weight: 400;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul {
+	margin-top: 5px;
+}
+
+/* Table Stuff */
+
+table {
+	border: none;
+	border-collapse: collapse;
+}
+
+table tr td {
+	padding: 10px;
+	border: solid #ddd 1px;
+	margin: 0;
+}
+
+table thead th {
+	font-weight: 400;
+	border: solid #ddd 1px;
+	padding: 10px;
+}
+
+/* Useful */
+
+div.wrapper {
+	margin: 50px 10% 0 20%;
+}
+
+.list-section {
+	margin-top: 25px;
+}

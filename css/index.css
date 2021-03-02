@@ -1,0 +1,12 @@
+img.image-round {
+	border-radius: 50%;
+}
+
+main {
+	display: flex;
+	margin-top: 30px;
+}
+
+section {
+	margin-top: 25px;
+}
