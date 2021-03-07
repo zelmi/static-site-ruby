@@ -7,14 +7,18 @@
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Use the title from a page's frontmatter if it has one -->
     <title><%= current_page.data.title || "Middleman" %></title>
-    <%= stylesheet_link_tag "site" %>
-    <%= javascript_include_tag "site" %>
+    <link rel="stylesheet" href="./stylesheets/site.css" />
+    <!-- <%= stylesheet_link_tag "site" %> -->
   </head>
   <body>
-    <%= link_to "Books", "books.html"%>
-    <%= link_to "Education", "education.html"%>
-    <%= link_to "Past Personell", "research/personell/past.html"%>
-    <%= link_to "Present Personell", "research/personell/present.html"%>
+    <nav>
+      <ul>
+        <%= link_to "Books", "books.html"%>
+        <%= link_to "Education", "education.html"%>
+        <%= link_to "Past Personell", "research/personell/past.html"%>
+        <%= link_to "Present Personell", "research/personell/present.html"%>
+      </ul>
+    </nav>
     <%= yield %>
   </body>
 </html> 

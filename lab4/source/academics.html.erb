@@ -1,0 +1,32 @@
+<div class="wrapper">
+	<h1>Academics</h1>
+	<div style="display: flex">
+		<div>
+			<p>Education</p>
+			<table>
+				<thead>
+					<th>University</th>
+					<th>Degree</th>
+					<th>Time Spent</th>
+				</thead>
+				<tbody>
+					<% data.education.each do |e| %>
+						<tr>
+							<td><%= e.location %></td>
+							<td><%= e.degree %></td>
+							<td><%= e.years %></td>
+						</tr>
+					<% end %>
+				</tbody>
+			</table>
+		</div>
+		<div style="margin-left: 40px">
+			<p>Teaching</p>
+			<ul>
+				<% data.teaching.each do |t| %>
+					<li><%= t.name %></li>
+				<% end %>
+			</ul>
+		</div>
+	</div>
+</div>
