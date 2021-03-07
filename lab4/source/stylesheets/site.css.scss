@@ -18,7 +18,22 @@ nav {
 	height: 65px;
 
 	ul {
+		height: 100%;
 		margin: 0;
+		margin-left: 40px;
+		padding: 0;
+		list-style: none;
+		display: flex;
+
+		li {
+			margin: auto 0;
+			margin-right: 20px;
+
+			a {
+				text-decoration: none;
+				color: #fff;
+			}
+		}
 	}
 }
 

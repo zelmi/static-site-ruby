@@ -1,17 +1,14 @@
-<div class="wrapper">
-	<main>
-		<img src="./images/tamal.png" alt="tamal" class="image-round" />
-		<div style="margin: auto 0 auto 30px">
-			<h1>Tamal Krishna Dey</h1>
-		</div>
-	</main>
-	<section>
-		<label>The Ohio State University: Department of Computer Science & Engineering</label>
-		<ul>
-			<li><a href="./about.html">About Me</a></li>
-			<li><a href="./academics.html">My Academics</a></li>
-			<li><a href="./activities.html">My Activities</a></li>
-			<li><a href="./research.html">My Research</a></li>
-		</ul>
-	</section>
-</div>
+<main>
+	<img src="./images/tamal.png" alt="tamal" class="image-round" />
+	<div style="margin: auto 0 auto 30px">
+		<h1>Tamal Krishna Dey</h1>
+	</div>
+</main>
+<section>
+	<label>The Ohio State University: Department of Computer Science & Engineering</label>
+	<ul>
+		<% data.pages.each do |p| %>
+			<li><a href="<%= p.href %>"><%= p.name %></a></li>
+		<% end %>
+	</ul>
+</section>

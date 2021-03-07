@@ -13,12 +13,14 @@
   <body>
     <nav>
       <ul>
-        <%= link_to "Books", "books.html"%>
-        <%= link_to "Education", "education.html"%>
-        <%= link_to "Past Personell", "research/personell/past.html"%>
-        <%= link_to "Present Personell", "research/personell/present.html"%>
+        <li><a href="./index.html">Home</a></li>
+        <% data.pages.each do |p| %>
+          <li><a href="<%= p.href %>"><%= p.name %></a></li>
+        <% end %>
       </ul>
     </nav>
-    <%= yield %>
+    <div class="wrapper">
+      <%= yield %>
+    </div>
   </body>
 </html> 

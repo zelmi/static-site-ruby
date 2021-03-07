@@ -1,0 +1,7 @@
+- name: About Me
+  href: ./about.html
+- name: My Academics
+  href: ./academics.html
+- name: My Activities
+  href: ./activities.html
+- name: My Research
