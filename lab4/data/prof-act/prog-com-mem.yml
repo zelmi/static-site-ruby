@@ -1,0 +1,86 @@
+- title: "SoCG"
+  year: <a href="http://socg2012.web.unc.edu">2012</a>
+  year: <a href="http://eecs.oregonstate.edu/socg19/index.html">2019</a>
+- title: "NASAGEM"
+  year: <a href="http://www.gdv.uni-hannover.de/events/hcw07/the_conference/nasa_gem_workshop/index.php">07</a>
+- title: "ISAAC:
+  year: <a href="http://www.isical.ac.in/%7Eisaac06/">06</a>
+- title: "Pacific Graphics"
+  year: <a href="http://graphics.im.ntu.edu.tw/pg2006/">06</a>
+- title: "SPM"
+  year: <a href="http://www.ce.washington.edu/sm04/">04</a>
+  year: <a href="http://www.gvu.gatech.edu/%7Ejarek/spm">05</a>
+  year: <a href="http://ralph.cs.cf.ac.uk/SPM06.html">06</a>
+  year: <a href="http://cg.cs.tsinghua.edu.cn/spm2007/">07</a>
+  year: <a href="http://www.cs.sunysb.edu/spm08/">08</a>
+  year: <a href="http://www.siam.org/meetings/gdspm09/">09</a>
+  year: <a href="http://www.cs.technion.ac.il/spm2010/">10</a>
+  year: <a href="http://www.siam.org/meetings/gdspm11/">11</a>
+  year: <a href="http://spm12.u-bourgogne.fr">12</a>
+  year: " 13, "
+  year: <a href="http://spring.mae.cuhk.edu.hk/%7Esmi2014/index.html">14</a>
+  year: <a href="http://www.siam.org/meetings/gdspm15/">15, </a>
+  year: <a href="https://s3pm.icsi.berkeley.edu/s3pm/spm.html">17</a>
+- title: "SMI"
+  year: <a href="http://smism04.ge.imati.cnr.it/"> 04</a>
+  year: <a href="http://www.shapemodeling.org/"> 05</a>
+  year: <a href="http://www.ifs.tohoku.ac.jp/SMI06/">06</a>
+  year: <a href="http://smi07.liris.cnrs.fr/"> 07</a>
+  year: <a href="http://www.cs.sunysb.edu/smi08/">08</a>
+  year: <a href="http://cgcad.thss.tsinghua.edu.cn/SMI2009/">09</a>
+  year: <a href="http://mdm.ge.imati.cnr.it/related-info/conferences-and-workshops/shape-modeling-international-2010">10</a>
+  year: <a href="http://www1.idc.ac.il/smi2011/">11 </a>
+  year: <a href="http://www.shapemodeling.org/">12</a>
+  year: "13"
+  year: <a href="http://spring.mae.cuhk.edu.hk/%7Esmi2014/index.html">14</a>
+  year: <a href="http://www-rech.telecom-lille.fr/smi2015/">15, </a>
+  year: <a href="https://s3pm.icsi.berkeley.edu/s3pm/smi.html">17</a>
+- title: "Point Graphics"
+  year: <a href="http://graphics.ethz.ch/pbg/cfp.html">04</a>
+  year: <a href="http://www.cs.princeton.edu/gfx/pbg05">05</a>
+  year: <a href="http://graphics.ethz.ch/PBG06/">06 </a>
+  year: <a href="http://graphics.ethz.ch/events/pbg/08/">07 08</a>
+- title: "3DPVT"
+  year: <a href="http://www.umiacs.umd.edu/conferences/3dpvt04/">04</a>
+  year: <a href="http://www.cc.gatech.edu/conferences/3DPVT08/3DPVT%2008.html">08</a>
+- title: "SOCG"
+  year: "98"
+  year: <a href="http://www.cs.umd.edu/areas/Theory/socg03">03</a>
+- title: "Solid Modeling"
+  year: <a href="http://www.ce.washington.edu/sm03/">03</a>
+- title: "SODA"
+  year: <a href="http://www.siam.org/meetings/da03">03</a>
+  year: <a href="http://www.siam.org/meetings/da14/">14</a>
+- title: "FSTTCS"
+  year: "95"
+  year: "96"
+  year: "97"
+  year: "03"
+- title: "WALCOM"
+  year: <a href="http://www.isical.ac.in/%7Ewalcom/">09</a>
+- title: "SGP"
+  year: <a href="http://sgp09.mi.fu-berlin.de/">09</a>
+  year: <a href="http://sgp2010.liris.cnrs.fr/">10</a>
+  year: <a href="http://sgp2011-lgg.epfl.ch/Home.html">11</a>
+  year: <a href="http://www.ioc.ee/sgp12/">12</a>
+  year: "13"
+  year: <a href="http://www.cs.cf.ac.uk/sgp2014/">14</a>
+  year: <a href="http://www.geometrie.tugraz.at/sgp2015/">15,</a>
+  year: <a href="http://www.geometrysummit.org/sgp2016/pc.html">16</a>
+  year: <a href="http://geometry.cs.ucl.ac.uk/SGP2017/">17</a>
+- title: "ISVD"
+  year: "09"
+  year: <a href="http://bioinf.spbau.ru/isvd2013/">13</a>
+- title: "GMP"
+  year: <a href="http://www.gmp2010.unican.es/">10</a>
+  year: <a href="http://math.ustc.edu.cn/Conference/GMP2012/">12 </a>
+- title: "SoCG Video"
+  year: <a href="http://www.sci.utah.edu/socg2010/">10</a>
+- title: "TopoInfoVis"
+  year: <a href="http://www.topoinvis2011.ethz.ch/">11</a>
+- title: "CAD graphics"
+  year: <a href="http://cadcg2011.sdu.edu.cn/">2011</a>
+- title: "EuroCG"
+  year: <a href="http://www.ibr.cs.tu-bs.de/alg/eurocg13/">2013</a>
+- title: "SWAT"
+  year: <a href="http://algolog.compute.dtu.dk/swat2014/">2014</a>
