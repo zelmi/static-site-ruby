@@ -1,0 +1,95 @@
+<h1>Research</h1>
+<div>
+	<div>
+		<h2>Personnel</h2>
+      		<h3>Current</h3>
+		    	<ul>
+          			<% data.research.peronnel.present.each do |e| %>
+            			<li><%= e.name %></li>
+          			<% end %>
+        		</ul>
+        	<h3>Past</h3>
+        		<ul>
+        			<% data.research.personnel.past.each do |e| %>
+        				<li><%= e.name %></li>
+        			<% end %>
+        		<ul>
+	</div>
+	<div>
+		<h2>Projects</h2>
+			<h3>Data Sparsification</h3>
+				<ul>
+					<% data.research.projects.datasparse.each do |e| %>
+						<li><%= e.name %></li>
+					<% end %>
+				</ul>
+			<h3>Homology Features</h3>
+				<ul>
+					<% data.research.projects.homologyfeatures.each do |e| %>
+						<li><%= e.name %></li>
+					<% end %>
+				</ul>
+			<h3>Meshing</h3>
+				<ul>
+					<% data.research.projects.meshing.each do |e| %>
+						<li><%= e.name %></li>
+					<% end %>
+				</ul>
+			<h3>Reconstruction</h3>
+				<ul>
+					<% data.research.projects.reconstruction.each do |e| %>
+						<li><%= e.name %></li>
+					<% end %>
+				</ul>
+			<h3>Shape Features</h3>
+				<ul>
+					<% data.research.projects.shapefeatures.each do |e| %>
+						<li><%= e.name %></li>
+					<% end %>
+				</ul>
+			<h3>Miscellaneous</h3>
+				<ul>
+					<% data.research.projects.misc.each do |e| %>
+						<li><%= e.name %></li>
+					<% end %>
+				</ul>
+	</div>
+	<div>
+		<h2>Software</h2>
+			<h3>Data Sparsification</h3>
+				<ul>
+					<% data.research.software.sparsification.each do |e| %>
+						<li><%= e.item %></li>
+					<% end %>
+				</ul>
+			<h3>Homology Features</h3>
+				<ul>
+					<% data.research.software.homologyfeatures.each do |e| %>
+						<li><%= e.item %></li>
+					<% end %>
+				</ul>
+			<h3>Meshing</h3>
+				<ul>
+					<% data.research.software.meshing.each do |e| %>
+						<li><%= e.item %></li>
+					<% end %>
+				</ul>
+			<h3>Reconstruction</h3>
+				<ul>
+					<% data.research.software.reconstruction.each do |e| %>
+						<li><%= e.item %></li>
+					<% end %>
+				</ul>
+			<h3>Shape Features</h3>
+				<ul>
+					<% data.research.software.shapefeatures.each do |e| %>
+						<li><%= e.item %></li>
+					<% end %>
+				</ul>
+			<h3>Miscellaneous</h3>
+				<ul>
+					<% data.research.projects.misc.each do |e| %>
+						<li><%= e.item %></li>
+					<% end %>
+				</ul>
+</div>
