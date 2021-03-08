@@ -1,102 +1,102 @@
-- talk: <a href="https://www.birs.ca/events/2018/5-day-workshops/18w5140">Multiparameter Persistent Homology</a>
-  location: "BIRS-CMO, Mexico"
-  date: "August, 2018"
-- talk: <a href="https://dccg.upc.edu/irp2018/details-of-the-activities/il1/">Computational Topology and Data Analysis</a>
-  location: "Intensive Research Program in Discrete, Combinatorial and Computation Geometry, CRM, Spain"
-  date: "2018"
-- talk: "A tool for approximating the persistence of Rips filtrations efficiently, "<a href="https://www.ima.umn.edu/~mlesnick/Mini_Symposium_2016.html">SoCG workshop on Computational Topography</a>" ["<a href="https://web.cse.ohio-state.edu/~dey.8/talk/SimBa/SimBa.pdf">talk slides</a>"]"
+- talk: '<a href="https://www.birs.ca/events/2018/5-day-workshops/18w5140">Multiparameter Persistent Homology</a>'
+  location: 'BIRS-CMO, Mexico'
+  date: 'August, 2018'
+- talk: '<a href="https://dccg.upc.edu/irp2018/details-of-the-activities/il1/">Computational Topology and Data Analysis</a>'
+  location: 'Intensive Research Program in Discrete, Combinatorial and Computation Geometry, CRM, Spain'
+  date: '2018'
+- talk: 'A tool for approximating the persistence of Rips filtrations efficiently, "<a href="https://www.ima.umn.edu/~mlesnick/Mini_Symposium_2016.html">SoCG workshop on Computational Topography</a>" ["<a href="https://web.cse.ohio-state.edu/~dey.8/talk/SimBa/SimBa.pdf">talk slides</a>"]'
   location: N/A
-  date: "2016"
-- talk: "Multiscale Mapper, "<a href="https://www2.ist.ac.at/acat/">ACAT workshop</a>
-  location: "IST-Austria"
-  date: "2015"
-- talk: "Computational topology in reconstruction, mesh generation, and data analysis ["<a href="https://web.cse.ohio-state.edu/~dey.8/talk/CCCG14/CCCG14.pdf">talk slides</a>"]"
-  location: "Canada"
-  date: "2014
-- talk: "Computing persistence for simplicial maps with application to data sparsification ["<a href="https://web.cse.ohio-state.edu/~dey.8/talk/simplicial-map/PersistenceForSimplicialMap.pdf">talk slides</a>"]"
-  location: <a href="https://www.ima.umn.edu/2013-2014/W4.28-5.2.14/">IMA workshop on Topology and Geometry of Networks and Discrete Metric Spaces</a>
-  date: "2014"
-- talk: "Graph Induced Complex ["<a href="https://web.cse.ohio-state.edu/~dey.8/talk/GIC/GIC.pdf">talk slides</a>"]"
-  location: <a href="https://www.ima.umn.edu/2013-2014/W10.28-11.1.13/">IMA workshop on Modern application of homology and Cohomology"
-  date: "2013"
-- talk: "Better Handles and Tunnels ["<a href="http://www.cse.ohio-state.edu/~tamaldey/talk/HanTun/HanTun.ppt">talk slides</a>"]"
-  location: "Workshop on geometric computing, SoCG"
-  date: "2013"
-- talk: "Delaunay mesh generations ["<a href="http://www.cse.ohio-state.edu/~tamaldey/talk/Delmesh/Delmesh.pptx">talk slides</a>"]"
-  location: "workshop on mesh generation, SoCG"
-  date: "2013
-- talk: <a href="https://www.mfo.de/occasion/1218/www_view">Delaunay mesh generation</a>" ["<a href="http://www.cse.ohio-state.edu/~tamaldey/talk/Delmesh/Delmesh.pptx">talk slides</a>"]"
-  location: "Oberwolfach workshop on Triangulations"
-  date: "2012"
-- talk: <a href="https://web.cse.ohio-state.edu/~dey.8/talk/OpHom/OHCP-IAS.pdf">Computing homology cycles with certified geometry</a>" ["<a href="https://web.cse.ohio-state.edu/~dey.8/talk/OpHom/OHCP-IAS.pdf">talk slides</a>"]"
-  location: "Computational Topology Workshop, "<a href="http://www.fields.utoronto.ca/programs/scientific/11-12/discretegeom/wksp_comptop/">Fields Institute</a>
-  date: "2011"
-- talk: <a href="https://web.cse.ohio-state.edu/~dey.8/talk/OpHom/OHCP-IAS.pdf">Computing homology cycles with certified geometry</a>" ["<a href="https://web.cse.ohio-state.edu/~dey.8/talk/OpHom/OHCP-IAS.pdf">talk slides</a>"]"
-  location: "Computational Topology Workshop, "<a href="https://www.ias.edu/math/index.php?q=seminars/abstract&event=43554">Instritute of Advanced Studies, Princeton</a>
-  date: "2012"
-- talk: <a href="https://archive.siam.org/meetings/gdspm11/invited.php">Computational geometry and topology meet geometric modeling</a>" ["<a href="http://www.cse.ohio-state.edu/~tamaldey/talk/IMR11/IMR11.pptx">talk slides</a>"]"
-  location: "SIAM-GD"
-  date: "2011"
-- talk: <a href="https://www.sandia.gov/imr/Speakers.html">Delaunay refinement and its localization for meshing</a>" ["<a href="http://www.cse.ohio-state.edu/~tamaldey/talk/IMR11/IMR11.pptx">talk slides</a>"]"
-  location: "IMR"
-  date: "2011"
-- talk: <a href="http://www.cse.iitd.ac.in/~amitk/walcom/">Geometry and topology from point cloud data</a>" ["<a href="http://www.cse.ohio-state.edu/~tamaldey/paper/PCD/PCD.pdf">talk slides</a>"]"
-  location: "WALCOM"
-  date: "2011"
-- talk: <a href="http://www.cse.iitd.ac.in/~naveen/activities/wshp-geometry/">Computing homology cycles with certified geometry</a>" ["<a href="http://www.cse.ohio-state.edu/~tamaldey/paper/homology-generators/talk.pdf">talk slides</a>"]"
-  location: "Workshop on Geometric Computing, IIT Delhi"
-  date: "Nov. 2010"
-- talk: <a href="http://www.math.utk.edu/barrett/">Convergence, stability, and approximation of Laplace spectra</a>
-  location: "Discrete Differential Geometry Workshop, U Tennesee"
-  date: "May 2010"
-- talk: <a href="http://www.birs.ca/birspages.php?task=displayevent&event_id=09w5112">Cut locus and topology from point data</a>
+  date: '2016'
+- talk: 'Multiscale Mapper, "<a href="https://www2.ist.ac.at/acat/">ACAT workshop</a>'
+  location: 'IST-Austria'
+  date: '2015'
+- talk: 'Computational topology in reconstruction, mesh generation, and data analysis ["<a href="https://web.cse.ohio-state.edu/~dey.8/talk/CCCG14/CCCG14.pdf">talk slides</a>"]'
+  location: 'Canada'
+  date: '2014'
+- talk: 'Computing persistence for simplicial maps with application to data sparsification ["<a href="https://web.cse.ohio-state.edu/~dey.8/talk/simplicial-map/PersistenceForSimplicialMap.pdf">talk slides</a>"]'
+  location: '<a href="https://www.ima.umn.edu/2013-2014/W4.28-5.2.14/">IMA workshop on Topology and Geometry of Networks and Discrete Metric Spaces</a>'
+  date: '2014'
+- talk: 'Graph Induced Complex ["<a href="https://web.cse.ohio-state.edu/~dey.8/talk/GIC/GIC.pdf">talk slides</a>"]'
+  location: '<a href="https://www.ima.umn.edu/2013-2014/W10.28-11.1.13/">IMA workshop on Modern application of homology and Cohomology'
+  date: '2013'
+- talk: 'Better Handles and Tunnels ["<a href="http://www.cse.ohio-state.edu/~tamaldey/talk/HanTun/HanTun.ppt">talk slides</a>"]'
+  location: 'Workshop on geometric computing, SoCG'
+  date: '2013'
+- talk: 'Delaunay mesh generations ["<a href="http://www.cse.ohio-state.edu/~tamaldey/talk/Delmesh/Delmesh.pptx">talk slides</a>"]'
+  location: 'workshop on mesh generation, SoCG'
+  date: '2013'
+- talk: '<a href="https://www.mfo.de/occasion/1218/www_view">Delaunay mesh generation</a>" ["<a href="http://www.cse.ohio-state.edu/~tamaldey/talk/Delmesh/Delmesh.pptx">talk slides</a>"]'
+  location: 'Oberwolfach workshop on Triangulations'
+  date: '2012'
+- talk: '<a href="https://web.cse.ohio-state.edu/~dey.8/talk/OpHom/OHCP-IAS.pdf">Computing homology cycles with certified geometry</a>" ["<a href="https://web.cse.ohio-state.edu/~dey.8/talk/OpHom/OHCP-IAS.pdf">talk slides</a>"]'
+  location: 'Computational Topology Workshop, "<a href="http://www.fields.utoronto.ca/programs/scientific/11-12/discretegeom/wksp_comptop/">Fields Institute</a>'
+  date: '2011'
+- talk: '<a href="https://web.cse.ohio-state.edu/~dey.8/talk/OpHom/OHCP-IAS.pdf">Computing homology cycles with certified geometry</a>" ["<a href="https://web.cse.ohio-state.edu/~dey.8/talk/OpHom/OHCP-IAS.pdf">talk slides</a>"]'
+  location: 'Computational Topology Workshop, "<a href="https://www.ias.edu/math/index.php?q=seminars/abstract&event=43554">Instritute of Advanced Studies, Princeton</a>'
+  date: '2012'
+- talk: '<a href="https://archive.siam.org/meetings/gdspm11/invited.php">Computational geometry and topology meet geometric modeling</a>" ["<a href="http://www.cse.ohio-state.edu/~tamaldey/talk/IMR11/IMR11.pptx">talk slides</a>"]'
+  location: 'SIAM-GD'
+  date: '2011'
+- talk: '<a href="https://www.sandia.gov/imr/Speakers.html">Delaunay refinement and its localization for meshing</a>" ["<a href="http://www.cse.ohio-state.edu/~tamaldey/talk/IMR11/IMR11.pptx">talk slides</a>"]'
+  location: 'IMR'
+  date: '2011'
+- talk: '<a href="http://www.cse.iitd.ac.in/~amitk/walcom/">Geometry and topology from point cloud data</a>" ["<a href="http://www.cse.ohio-state.edu/~tamaldey/paper/PCD/PCD.pdf">talk slides</a>"]'
+  location: 'WALCOM'
+  date: '2011'
+- talk: '<a href="http://www.cse.iitd.ac.in/~naveen/activities/wshp-geometry/">Computing homology cycles with certified geometry</a>" ["<a href="http://www.cse.ohio-state.edu/~tamaldey/paper/homology-generators/talk.pdf">talk slides</a>"]'
+  location: 'Workshop on Geometric Computing, IIT Delhi'
+  date: 'Nov. 2010'
+- talk: '<a href="http://www.math.utk.edu/barrett/">Convergence, stability, and approximation of Laplace spectra</a>'
+  location: 'Discrete Differential Geometry Workshop, U Tennesee'
+  date: 'May 2010'
+- talk: '<a href="http://www.birs.ca/birspages.php?task=displayevent&event_id=09w5112">Cut locus and topology from point data</a>'
   location: BIRS workshop on Data Analysis
-  date: "March 2009"
-- talk: <a href="http://www.birs.ca/birspages.php?task=eventvideos&event_id=09w5119">Lifting the curse of slivers from surface reconstruction (Video)</a>
+  date: 'March 2009'
+- talk: '<a href="http://www.birs.ca/birspages.php?task=eventvideos&event_id=09w5119">Lifting the curse of slivers from surface reconstruction (Video)</a>'
   location: BIRS workshop on Computational Mathematics on Discrete surfaces
-  date: "February 2009"
-- talk: <a href="http://cse.seas.wustl.edu/About/Events.asp?EventType=Colloquia&EventID=1343">Computing handles and tunnels in 3D models</a>" ["<a href="http://www.cse.ohio-state.edu/~tamaldey/talk/ht.ppt">talk slides</a>"]"
-  location: "Colloquium, Washington University St. Louis"
-  date: "February 2008"
-- talk: <a href="http://people.cs.uchicago.edu/~niyogi/conference/index.html">Geometric topological approaches to data analysis</a>" ["<a href="http://www.cse.ohio-state.edu/~tamaldey/paper/extract-manifold/talk.pdf">talk slides</a>"]"
-  location: "N/A"
-  date: "October 2007"
-- talk: <a href="http://www-sop.inria.fr/geometrica/collaborations/geotopal/">GeoTopA1</a>
-  location: "N/A"
-  date: "2007"
-- talk: <a href="http://www.isical.ac.in/~isaac06/">ISAAC</a>
-  location: "N/A"
-  date: "2006"
-- talk: <a href="http://www.lorentzcenter.nl/lc/web/2006/20060306/program.php3?wsid=169">Tessellations in the Sciences</a>
-  location: "Lorentz Center, Lieden University"
-  date: "March 2006"
-- talk: <a href="http://www.research.att.com/~krishnas/fwcg05/">15th Fall Workshop on Computational Geometry</a>
-  location: "N/A"
-  date: "2005"
-- talk: <a href="http://geometry.poly.edu/realworld/Seminars/tamal.html">Othmer Institutde Seminar</a>
-  location: "N/A"
-  date: "2005"
-- talk: <a href="http://www.dis.uniroma1.it/~algo02">ALGO2002</a>
-  location: "N/A"
-  date: "2002"
-- talk: <a href="http://www-sop.inria.fr/prisme/ECG/workshop/final">ECG Final Workshop</a>
-  location: "N/A"
-  date: "2003"
-- talk: "DIMACS Workshop on Surface Reconstruction"
-  location: "N/A"
-  date: "N/A"
-- talk: "DIMACS Workshop on computer aided design and manufacturing"
-  location: "N/A"
-  date: "N/A"
-- talk: <a href="http://www.math.uwo.ca/~jardine/at-cs.html">Conferene on Algebraic Topological Methods in Computer Science</a>
-  location: "Department of Mathematics, Stanford University"
-  date: "July 30 - August 3, 2001"
-- talk: "Colloquiam"
-  location: "Department of Computer Science, University of Notre Dame"
-  date: "September 2004"
-- talk: <a href="http://www-or.amp.i.kyoto-u.ac.jp/algo-eng/seminar/ws001030_abs.html">Workshop on Algorithm Engineering as a New Paradigm</a>
-  location: "RIMS Kyoto, Kyoto University, Kyoto, Japan"
-  date: "Oct 30 - Nov 2, 2000"
-- talk: "Solid Modeling Technology and Applications, SME"
-  location: "Detroit, MI"
-  date: "Nov 16-17, 2000"
+  date: 'February 2009'
+- talk: '<a href="http://cse.seas.wustl.edu/About/Events.asp?EventType=Colloquia&EventID=1343">Computing handles and tunnels in 3D models</a>" ["<a href="http://www.cse.ohio-state.edu/~tamaldey/talk/ht.ppt">talk slides</a>"]'
+  location: 'Colloquium, Washington University St. Louis'
+  date: 'February 2008'
+- talk: '<a href="http://people.cs.uchicago.edu/~niyogi/conference/index.html">Geometric topological approaches to data analysis</a>" ["<a href="http://www.cse.ohio-state.edu/~tamaldey/paper/extract-manifold/talk.pdf">talk slides</a>"]'
+  location: 'N/A'
+  date: 'October 2007'
+- talk: '<a href="http://www-sop.inria.fr/geometrica/collaborations/geotopal/">GeoTopA1</a>'
+  location: 'N/A'
+  date: '2007'
+- talk: '<a href="http://www.isical.ac.in/~isaac06/">ISAAC</a>'
+  location: 'N/A'
+  date: '2006'
+- talk: '<a href="http://www.lorentzcenter.nl/lc/web/2006/20060306/program.php3?wsid=169">Tessellations in the Sciences</a>'
+  location: 'Lorentz Center, Lieden University'
+  date: 'March 2006'
+- talk: '<a href="http://www.research.att.com/~krishnas/fwcg05/">15th Fall Workshop on Computational Geometry</a>'
+  location: 'N/A'
+  date: '2005'
+- talk: '<a href="http://geometry.poly.edu/realworld/Seminars/tamal.html">Othmer Institutde Seminar</a>'
+  location: 'N/A'
+  date: '2005'
+- talk: '<a href="http://www.dis.uniroma1.it/~algo02">ALGO2002</a>'
+  location: 'N/A'
+  date: '2002'
+- talk: '<a href="http://www-sop.inria.fr/prisme/ECG/workshop/final">ECG Final Workshop</a>'
+  location: 'N/A'
+  date: '2003'
+- talk: 'DIMACS Workshop on Surface Reconstruction'
+  location: 'N/A'
+  date: 'N/A'
+- talk: 'DIMACS Workshop on computer aided design and manufacturing'
+  location: 'N/A'
+  date: 'N/A'
+- talk: '<a href="http://www.math.uwo.ca/~jardine/at-cs.html">Conferene on Algebraic Topological Methods in Computer Science</a>'
+  location: 'Department of Mathematics, Stanford University'
+  date: 'July 30 - August 3, 2001'
+- talk: 'Colloquiam'
+  location: 'Department of Computer Science, University of Notre Dame'
+  date: 'September 2004'
+- talk: '<a href="http://www-or.amp.i.kyoto-u.ac.jp/algo-eng/seminar/ws001030_abs.html">Workshop on Algorithm Engineering as a New Paradigm</a>'
+  location: 'RIMS Kyoto, Kyoto University, Kyoto, Japan'
+  date: 'Oct 30 - Nov 2, 2000'
+- talk: 'Solid Modeling Technology and Applications, SME'
+  location: 'Detroit, MI'
+  date: 'Nov 16-17, 2000'

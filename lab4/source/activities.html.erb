@@ -2,33 +2,42 @@
 <div>
 	<div>
 		<h2>Program Committee Member</h2>
-			<ul>
-      			<% data.profAct.progComMem.each do |e| %>
-      				<li>
-      					<%= e.title %>" "<%= e.year %>
-      				</li>
-      			<% end %>
-      		</ul>
+		<ul>
+			<% data.profAct.progComMem.each do |e| %>
+				<li>
+					<%= e.title %>: 
+					<% e.years.each do |y| %>
+						<%= y %>,
+					<% end %>
+				</li>
+			<% end %>
+		</ul>
 	</div>
 	<div>
 		<h2>Invited Talks</h2>
+		<ul>
 			<% data.profAct.invTalks.each do |e| %>
-				<label>
-					<%= e.talk %>
-				</label>
-				<ul>
-					<li>
-						"LocatiAon: "<%= e.location %>
-					</li>
-					<li>
-						"Date: "<%= e.date %>
-					</li>
-				</ul>
+				<li>
+					<label>
+						<%= e.talk %>
+					</label>
+					<ul>
+						<li>
+							"Location: "<%= e.location %>
+						</li>
+						<li>
+							"Date: "<%= e.date %>
+						</li>
+					</ul>
+				</li>
 			<% end %>
+		</ul>
 	</div>
 	<div>
 		<h2>Other Activities</h2>
-			<label>Editorial Board</label>
+		<ul>
+			<li>
+				<label>Editorial Board</label>
 				<ul>
 					<% data.profAct.otherAct.editBoard.each do |e| %>
 						<li>
@@ -36,7 +45,9 @@
 						</li>
 					<% end %>
 				</ul>
-			<label>Organizer</label>
+			</li>
+			<li>
+				<label>Organizer</label>
 				<ul>
 					<% data.profAct.otherAct.organizer.each do |e| %>
 						<li>
@@ -44,7 +55,9 @@
 						</li>
 					<% end %>
 				</ul>
-			<label>Tutorials</label>
+			</li>
+			<li>
+				<label>Tutorials</label>
 				<ul>
 					<% data.profAct.otherAct.tutorials.each do |e| %>
 						<li>
@@ -52,7 +65,9 @@
 						</li>
 					<% end %>
 				</ul>
-			<label>Miscellaneous</label>
+			</li>
+			<li>
+				<label>Miscellaneous</label>
 				<% data.profAct.otherAct.actMisc.each do |e| %>
 					<label>
 						<%= e.name %>
@@ -63,5 +78,7 @@
 						</li>
 					</ul>
 				<% end %>
+			</li>
+		</ul>
 	</div>
 </div>

@@ -1,9 +1,9 @@
-- name: <a href="http://socg2012.web.unc.edu/">Co-Chair, SoCG 2012</a>
-- name: "Guest Editor"
-  link: <a href="http://www.cs.ust.hk/faculty/scheng/ijfcs.html">Special issue of IJFCS</a>
-- name: "Executive Board"
-  link: <a href="http://solidmodeling.org/layout.php?nextlink=executives">Solid Modeling Association (08-11)</a>
-- name: "Steering Committee"
-  link: <a href="http://www.imr.sandia.gov/">11th Meshing Roundtable 2002</a>
-- name: "Advisory Committee"
-  link: <a href="http://www.simplex.t.u-tokyo.ac.jp/%7Evd2004">"International Symposium on Voronoi Diagrams in Science and Engineering"</a>
+- name: '<a href="http://socg2012.web.unc.edu/">Co-Chair, SoCG 2012</a>'
+- name: 'Guest Editor'
+  link: '<a href="http://www.cs.ust.hk/faculty/scheng/ijfcs.html">Special issue of IJFCS</a>'
+- name: 'Executive Board'
+  link: '<a href="http://solidmodeling.org/layout.php?nextlink=executives">Solid Modeling Association (08-11)</a>'
+- name: 'Steering Committee'
+  link: '<a href="http://www.imr.sandia.gov/">11th Meshing Roundtable 2002</a>'
+- name: 'Advisory Committee'
+  link: '<a href="http://www.simplex.t.u-tokyo.ac.jp/%7Evd2004">"International Symposium on Voronoi Diagrams in Science and Engineering"</a>'
