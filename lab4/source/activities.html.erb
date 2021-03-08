@@ -1,0 +1,62 @@
+<h1>Professional Activities</h1>
+<div>
+	<div>
+		<h2>Program Committee Member</h2>
+			<ul>
+      			<% data.prof-act.prog-com-mem.each do |e| %>
+      				<li>
+      					<%= e.title %>" "<%= e.year %>
+      				</li>
+      			<% end %>
+      		</ul>
+	</div>
+	<div>
+		<h2>Invited Talks</h2>
+			<% data.prof-act.inv-talks.each do |e| %>
+				<h4>
+					<%= e.talk %>
+				</h4>
+				<ul>
+					<li>
+						"Location: "<%= e.location %>
+					</li>
+					<li>
+						"Date: "<%= e.date %>
+					</li>
+				</ul>
+	</div>
+	<div>
+		<h2>Other Activities</h2>
+			<h3>Editorial Board</h3>
+				<ul>
+					<% data.prof-act.other-act.edit-board.each do |e| %>
+						<li>
+							<%= e.activity %>
+						</li>
+				</ul>
+			<h3>Organizer</h3>
+				<ul>
+					<% data.prof-act.other-act.organizer.each do |e| %>
+						<li>
+							<%= e.name %>
+						</li>
+				</ul>
+			<h3>Tutorials</h3>
+				<ul>
+					<% data.prof-act.other-act.tutorials.each do |e| %>
+						<li>
+							<%= e.name %>
+						</li>
+				</ul>
+			<h3>Miscellaneous</h3>
+				<% data.prof-act.other-act.act-misc.each do |e| %>
+					<h4>
+						<%= e.name %>
+					</h4>
+					<ul>
+						<li>
+							<%= e.link %>
+						</li>
+				</ul>
+	</div>
+</div>
