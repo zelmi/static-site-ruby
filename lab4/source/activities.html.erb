@@ -3,7 +3,7 @@
 	<div>
 		<h2>Program Committee Member</h2>
 			<ul>
-      			<% data.prof-act.prog-com-mem.each do |e| %>
+      			<% data.profAct.progComMem.each do |e| %>
       				<li>
       					<%= e.title %>" "<%= e.year %>
       				</li>
@@ -12,44 +12,48 @@
 	</div>
 	<div>
 		<h2>Invited Talks</h2>
-			<% data.prof-act.inv-talks.each do |e| %>
+			<% data.profAct.invTalks.each do |e| %>
 				<h4>
 					<%= e.talk %>
 				</h4>
 				<ul>
 					<li>
-						"Location: "<%= e.location %>
+						"LocatiAon: "<%= e.location %>
 					</li>
 					<li>
 						"Date: "<%= e.date %>
 					</li>
 				</ul>
+			<% end %>
 	</div>
 	<div>
 		<h2>Other Activities</h2>
 			<h3>Editorial Board</h3>
 				<ul>
-					<% data.prof-act.other-act.edit-board.each do |e| %>
+					<% data.profAct.otherAct.editBoard.each do |e| %>
 						<li>
 							<%= e.activity %>
 						</li>
+					<% end %>
 				</ul>
 			<h3>Organizer</h3>
 				<ul>
-					<% data.prof-act.other-act.organizer.each do |e| %>
+					<% data.profAct.otherAct.organizer.each do |e| %>
 						<li>
 							<%= e.name %>
 						</li>
+					<% end %>
 				</ul>
 			<h3>Tutorials</h3>
 				<ul>
-					<% data.prof-act.other-act.tutorials.each do |e| %>
+					<% data.profAct.otherAct.tutorials.each do |e| %>
 						<li>
 							<%= e.name %>
 						</li>
+					<% end %>
 				</ul>
 			<h3>Miscellaneous</h3>
-				<% data.prof-act.other-act.act-misc.each do |e| %>
+				<% data.profAct.otherAct.actMisc.each do |e| %>
 					<h4>
 						<%= e.name %>
 					</h4>
@@ -57,6 +61,7 @@
 						<li>
 							<%= e.link %>
 						</li>
-				</ul>
+					</ul>
+				<% end %>
 	</div>
 </div>
