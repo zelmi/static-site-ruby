@@ -13,9 +13,9 @@
 	<div>
 		<h2>Invited Talks</h2>
 			<% data.profAct.invTalks.each do |e| %>
-				<h4>
+				<label>
 					<%= e.talk %>
-				</h4>
+				</label>
 				<ul>
 					<li>
 						"LocatiAon: "<%= e.location %>
@@ -28,7 +28,7 @@
 	</div>
 	<div>
 		<h2>Other Activities</h2>
-			<h3>Editorial Board</h3>
+			<label>Editorial Board</label>
 				<ul>
 					<% data.profAct.otherAct.editBoard.each do |e| %>
 						<li>
@@ -36,7 +36,7 @@
 						</li>
 					<% end %>
 				</ul>
-			<h3>Organizer</h3>
+			<label>Organizer</label>
 				<ul>
 					<% data.profAct.otherAct.organizer.each do |e| %>
 						<li>
@@ -44,7 +44,7 @@
 						</li>
 					<% end %>
 				</ul>
-			<h3>Tutorials</h3>
+			<label>Tutorials</label>
 				<ul>
 					<% data.profAct.otherAct.tutorials.each do |e| %>
 						<li>
@@ -52,11 +52,11 @@
 						</li>
 					<% end %>
 				</ul>
-			<h3>Miscellaneous</h3>
+			<label>Miscellaneous</label>
 				<% data.profAct.otherAct.actMisc.each do |e| %>
-					<h4>
+					<label>
 						<%= e.name %>
-					</h4>
+					</label>
 					<ul>
 						<li>
 							<%= e.link %>
