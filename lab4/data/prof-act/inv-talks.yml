@@ -1,0 +1,27 @@
+- talk: <a href="https://www.birs.ca/events/2018/5-day-workshops/18w5140">Multiparameter Persistent Homology</a>
+  location: "BIRS-CMO, Mexico"
+  date: "August, 2018"
+- talk: <a href="https://dccg.upc.edu/irp2018/details-of-the-activities/il1/">Computational Topology and Data Analysis</a>
+  location: "Intensive Research Program in Discrete, Combinatorial and Computation Geometry, CRM, Spain"
+  date: "2018"
+- talk: "A tool for approximating the persistence of Rips filtrations efficiently, "<a href="https://www.ima.umn.edu/~mlesnick/Mini_Symposium_2016.html">SoCG workshop on Computational Topography</a>" ["<a href="https://web.cse.ohio-state.edu/~dey.8/talk/SimBa/SimBa.pdf">talk slides</a>"]"
+  location: N/A
+  date: "2016"
+- talk: "Multiscale Mapper, "<a href="https://www2.ist.ac.at/acat/">ACAT workshop</a>
+  location: "IST-Austria"
+  date: "2015"
+- talk: "Computational topology in reconstruction, mesh generation, and data analysis ["<a href="https://web.cse.ohio-state.edu/~dey.8/talk/CCCG14/CCCG14.pdf">talk slides</a>"]"
+  location: "Canada"
+  date: "2014
+- talk: "Computing persistence for simplicial maps with application to data sparsification ["<a href="https://web.cse.ohio-state.edu/~dey.8/talk/simplicial-map/PersistenceForSimplicialMap.pdf">talk slides</a>"]"
+  location: <a href="https://www.ima.umn.edu/2013-2014/W4.28-5.2.14/">IMA workshop on Topology and Geometry of Networks and Discrete Metric Spaces</a>
+  date: "2014"
+- talk: "Graph Induced Complex ["<a href="https://web.cse.ohio-state.edu/~dey.8/talk/GIC/GIC.pdf">talk slides</a>"]"
+  location: <a href="https://www.ima.umn.edu/2013-2014/W10.28-11.1.13/">IMA workshop on Modern application of homology and Cohomology"
+  date: "2013"
+- talk: "Better Handles and Tunnels ["<a href="http://www.cse.ohio-state.edu/~tamaldey/talk/HanTun/HanTun.ppt">talk slides</a>"]"
+  location: "Workshop on geometric computing, SoCG"
+  date: "2013"
+- talk: <a href="https://www.mfo.de/occasion/1218/www_view">Delaunay mesh generation</a>" ["<a href="http://www.cse.ohio-state.edu/~tamaldey/talk/Delmesh/Delmesh.pptx">talk slides</a>"]"
+  location: "Oberwolfach workshop on Triangulations"
+  date: "2012"
