@@ -1,0 +1,4 @@
+- item: <a href="https://web.cse.ohio-state.edu/~dey.8/cocone.html">Medial</a>": Software for 3D medical axis based on "<a href="https://web.cse.ohio-state.edu/~dey.8/paper/medial/medial-ex.pdf">paper</a>
+- item: <a href="https://web.cse.ohio-state.edu/~dey.8/segmatch.html">SegMatch</a>": Software for shape segmentation and shape matching based on "<a href="https://web.cse.ohio-state.edu/~dey.8/paper/matching/feature.pdf">paper</a>
+- item: <a href="https://web.cse.ohio-state.edu/~dey.8/normfet.html">NormFet</a>": Software for normal and feature size estimation from point cloud based on "<a href="https://web.cse.ohio-state.edu/~dey.8/paper/norfet/paper.pdf">paper</a>
+- item: <a href="https://web.cse.ohio-state.edu/~dey.8/cskel.html">CurveSkel</a>": Sofware for curve skeleton of 3D shapes based on "<a href="https://web.cse.ohio-state.edu/~dey.8/paper/curve-skeleton/cskel.pdf">paper</a>
