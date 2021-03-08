@@ -1,16 +1,16 @@
-- name: "Data Structures & Algorithms"
+- name: <a href="http://web.cse.ohio-state.edu/~zaccai.1/2331/index.html>Data Structures & Algorithms</a>
   number: "CSE 2331"
   semester: "Autumn 2015"
-- name: "Algorithms"
+- name: <a href="https://web.cse.ohio-state.edu/~dey.8/course/6331/">Algorithms</a>
   number: "CSE 6331"
   semester: "Autumn 2012"
-- name: "Advanced Algorithms"
+- name: <a href="https://web.cse.ohio-state.edu/~dey.8/course/6332/">Advanced Algorithms</a>
   number: "CSE 6332"
   semester: "Spring 2019"
-- name: "Computational Topology and Data Analysis"
+- name: <a href="https://web.cse.ohio-state.edu/~dey.8/course/CTDA/CTDA.html">Computational Topology and Data Analysis</a>
   number: "CSE 5339"
   semester: "Autumn 2013"
-- name: "Geometric Modeling"
+- name: <a href="https://web.cse.ohio-state.edu/~dey.8/course/784/syllabus.html">Geometric Modeling</a>
   number: "CSE 5543"
   semester: "Spring 2018"
 - name: "Shape Modeling in Graphics and Visualisation"
@@ -19,9 +19,9 @@
 - name: "Subdivision Surfaces"
   number: "888"
   Semester: "Winter 2000"
-- name: "Formal Languages and Automata Theory"
+- name: <a href="https://web.cse.ohio-state.edu/~dey.8/course/625/">Formal Languages and Automata Theory</a>
   number: "CSE 625"
   semester: "Winter 2009"
-- name: "Sample Based Modeling for Graphics and Visualization"
+- name: <a href="https://web.cse.ohio-state.edu/~dey.8/course/788/">Sample Based Modeling for Graphics and Visualization</a>
   number: "CSE 788.Y14"
   semester: "Autumn 2005"
