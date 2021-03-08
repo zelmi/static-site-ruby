@@ -20,7 +20,7 @@ nav {
 	ul {
 		height: 100%;
 		margin: 0;
-		margin-left: 40px;
+		margin-left: 100px;
 		padding: 0;
 		list-style: none;
 		display: flex;
@@ -56,6 +56,14 @@ a {
 
 ul {
 	margin-top: 5px;
+}
+
+h1.tamal-header {
+	margin: auto 0 auto 20px;
+}
+
+h2.about-header {
+	font-size: 36px;
 }
 
 /* Table Stuff */

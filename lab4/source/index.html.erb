@@ -1,26 +1,22 @@
 <main>
 	<img src="./images/tamal.png" alt="tamal" class="image-round" />
-	<div>
-		<h1>Tamal Krishna Dey</h1>
-	</div>
+	<h1 class="tamal-header">Tamal Krishna Dey</h1>
 </main>
 <section>
 	<label>The Ohio State University: Department of Computer Science & Engineering</label>
-	
-	<h1 class="header">About Me</h1>
-<div class="list-section">
-	<label>Professor</label>
-	<ul>
-		<li>The Ohio State University</li>
-		<li>tamaldey@cse.ohio-state.edu</li>
-	</ul>
-</div>
-<div class="list-section">
-	<label>Books</label>
-	<ul>
-		<% data.books.each do |b| %>
-			<li><%= b.title %></li>
-		<% end %>
-	</ul>
-</div>
+	<div class="list-section">
+		<label>Professor</label>
+		<ul>
+			<li>The Ohio State University</li>
+			<li>tamaldey@cse.ohio-state.edu</li>
+		</ul>
+	</div>
+	<div class="list-section">
+		<label>Books</label>
+		<ul>
+			<% data.books.each do |b| %>
+				<li><%= b.title %></li>
+			<% end %>
+		</ul>
+	</div>
 </section>

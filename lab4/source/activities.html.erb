@@ -68,16 +68,20 @@
 			</li>
 			<li>
 				<label>Miscellaneous</label>
-				<% data.profAct.otherAct.actMisc.each do |e| %>
-					<label>
-						<%= e.name %>
-					</label>
-					<ul>
+				<ul>
+					<% data.profAct.otherAct.actMisc.each do |e| %>
 						<li>
-							<%= e.link %>
+							<label>
+								<%= e.name %>
+							</label>
+							<ul>
+								<li>
+									<%= e.link %>
+								</li>
+							</ul>
 						</li>
-					</ul>
-				<% end %>
+					<% end %>
+				</ul>
 			</li>
 		</ul>
 	</div>
