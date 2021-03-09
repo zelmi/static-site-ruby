@@ -41,11 +41,10 @@ The terminal will then provide you a link to visit the webpage, and upon inputti
 
 To view the formatted markdown file in VSCode, use VSCode code editor. Download here: https://code.visualstudio.com
 Open the generated markdown file after running program and select open preview (Ctrl+Shift+V or Command+Shift+V).
-Note that markdown file will be overwritten whenever user chooses to read an article.
 
 ### RubyMine
 
-To view the formatted markdown file in RubyMine, navigate to the project tab, and then double click the article.md file in the lib folder. Note: the markdown file will be overwritten whenever the user chooses to read a new article.
+To view the formatted markdown file in RubyMine, navigate to the project tab, and then double click the README.md file in the project folder.
 
 ### Terminal
 
