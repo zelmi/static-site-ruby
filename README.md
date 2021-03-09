@@ -35,29 +35,6 @@ $bundle exec middleman server
 
 The terminal will then provide you a link to visit the webpage, and upon inputting that link into your web browser you should be able to access the generated webpage.
 
-## Markdown File
-
-### VSCode
-
-To view the formatted markdown file in VSCode, use VSCode code editor. Download here: https://code.visualstudio.com
-Open the generated markdown file after running program and select open preview (Ctrl+Shift+V or Command+Shift+V).
-
-### RubyMine
-
-To view the formatted markdown file in RubyMine, navigate to the project tab, and then double click the README.md file in the project folder.
-
-### Terminal
-
-To view the formatted markdown file in the Ubuntu terminal, issue the following command to install the mdless gem:
-```
-$ gem install mdless
-```
-To open the generated markdown file, navigate to the lib folder of the project in the terminal, then issue the following command:
-```
-$ mdless article.md
-```
-The generated markdown file will open in the terminal. To quit mdless and return to the terminal, at anytime press 'q'.
-
 ## Contributors
 
 ### Team: //Todo: Make team name
