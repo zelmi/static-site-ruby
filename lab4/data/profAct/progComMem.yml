@@ -1,3 +1,4 @@
+#contains info for the title of the event and the year for the program committee member section
 - title: SoCG
   years:
       - '<a href="http://socg2012.web.unc.edu">2012</a>'
