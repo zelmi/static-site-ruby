@@ -1,3 +1,4 @@
+# meshing software section from original website
 - item: '<a href="https://web.cse.ohio-state.edu/~dey.8/delpsc.html">DelPSC:</a>Software for Delaunay meshing of surfaces, volumes, complexes based on <a href="https://web.cse.ohio-state.edu/~dey.8/paper/delpsc/imr07.pdf">paper</a>, <a href="http://www.cse.ohio-state.edu/~tamaldey/paper/delpsc/delpsc.ppt">talk slides</a>, [<a href="https://web.cse.ohio-state.edu/~dey.8/delpsc/video/">video</a>]'
 - item: '<a href="https://web.cse.ohio-state.edu/~dey.8/locpsc.html">LocPSC:</a> Localized version of DelPSC, runs faster. based on <a href="https://web.cse.ohio-state.edu/~dey.8/paper/locpsc/locpsc.pdf">paper</a>.'
 - item: '<a href="https://web.cse.ohio-state.edu/~dey.8/qualmesh.html">Qualmesh:</a> Software for quality Delaunay meshing of polyhedra based on <a href="https://web.cse.ohio-state.edu/~dey.8/paper/qualmesh/qualmesh.pdf">paper</a>.'
