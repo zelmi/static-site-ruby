@@ -1,5 +1,5 @@
 # Static Web Site Design
-This project redesigned an existing website from from the CSE department's directory. The webpage that was redesigned is former Prof. Dey's website which can be found [here](http://web.cse.ohio-state.edu/~dey.8/)
+This project redesigns an existing website from from the CSE department's directory. The webpage that was redesigned is former Prof. Dey's website which can be found [here](http://web.cse.ohio-state.edu/~dey.8/)
 ## Installation
 
 Installing Ruby and the Middleman gem is required to run this project. Enter the following commands into your terminal to install Ruby.
